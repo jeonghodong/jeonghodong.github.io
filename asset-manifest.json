@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.da3adca8.css",
-    "main.js": "/static/js/main.00faa62e.js",
+    "main.js": "/static/js/main.fdf5f8fb.js",
     "static/media/port_2.gif": "/static/media/port_2.a6a0a62dc8a48e1066d8.gif",
     "static/media/sns_page진입.gif": "/static/media/sns_page진입.dacbcab9b799d87e2a11.gif",
     "static/media/sns_무한스크롤상단이동.gif": "/static/media/sns_무한스크롤상단이동.f6b8a82cec596378f3aa.gif",
@@ -13,19 +13,25 @@
     "static/media/무비_home.png": "/static/media/무비_home.b3a1cfe59e3f1bd77e14.png",
     "static/media/무비_클릭시_예고편.png": "/static/media/무비_클릭시_예고편.868f239a8e4d963c5042.png",
     "static/media/sns_게시물작성.gif": "/static/media/sns_게시물작성.d0c59a13e7332c2536e7.gif",
+    "static/media/Mall3.png": "/static/media/Mall3.15c68654e9ebd0d45fae.png",
     "static/media/sns_page이동.gif": "/static/media/sns_page이동.c06d6a4735e53a2fb41a.gif",
     "static/media/photo_section2.png": "/static/media/photo_section2.b4eac9c25f48d258eeed.png",
     "static/media/photo_home.png": "/static/media/photo_home.488984f212aaa17f5f4a.png",
+    "static/media/Mall4.png": "/static/media/Mall4.8308f26fe58428a0ae77.png",
     "static/media/photo_section.png": "/static/media/photo_section.d9ec3365b4a5495a2468.png",
     "static/media/ghost2.jpg": "/static/media/ghost2.961f3413fd9503890b13.jpg",
+    "static/media/Mall2.png": "/static/media/Mall2.f50998a41981f4fd487c.png",
     "static/media/sns_home.png": "/static/media/sns_home.c9879900d40e43681cd3.png",
+    "static/media/Mall6.png": "/static/media/Mall6.a4225a8bc31fbc459284.png",
     "static/media/portfolio.png": "/static/media/portfolio.d84950fd61c843103c10.png",
+    "static/media/Mall5.png": "/static/media/Mall5.6d4f55d87f55305f1d73.png",
+    "static/media/Mall1.png": "/static/media/Mall1.5a6a226e1fdfc4deef2f.png",
     "index.html": "/index.html",
     "main.da3adca8.css.map": "/static/css/main.da3adca8.css.map",
-    "main.00faa62e.js.map": "/static/js/main.00faa62e.js.map"
+    "main.fdf5f8fb.js.map": "/static/js/main.fdf5f8fb.js.map"
   },
   "entrypoints": [
     "static/css/main.da3adca8.css",
-    "static/js/main.00faa62e.js"
+    "static/js/main.fdf5f8fb.js"
   ]
 }
