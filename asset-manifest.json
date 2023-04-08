@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.da3adca8.css",
-    "main.js": "/static/js/main.d0bf2d3b.js",
+    "main.css": "/static/css/main.33a3c2d5.css",
+    "main.js": "/static/js/main.b2f98384.js",
     "static/media/port_2.gif": "/static/media/port_2.a6a0a62dc8a48e1066d8.gif",
     "static/media/sns_page진입.gif": "/static/media/sns_page진입.dacbcab9b799d87e2a11.gif",
     "static/media/sns_무한스크롤상단이동.gif": "/static/media/sns_무한스크롤상단이동.f6b8a82cec596378f3aa.gif",
@@ -10,10 +10,14 @@
     "static/media/sns_댓글작성삭제.gif": "/static/media/sns_댓글작성삭제.4d70fac5bf5a8d62c8c8.gif",
     "static/media/sns_게시물삭제.gif": "/static/media/sns_게시물삭제.ddb7e6e1e4de40c9af9a.gif",
     "static/media/sns_미디어쿼리.gif": "/static/media/sns_미디어쿼리.c8d88a9bc1adfa0996ea.gif",
+    "static/media/marvel2.png": "/static/media/marvel2.53f18f30f72694a32419.png",
     "static/media/무비_home.png": "/static/media/무비_home.b3a1cfe59e3f1bd77e14.png",
+    "static/media/marvel1.png": "/static/media/marvel1.b008495480ee3873cd82.png",
     "static/media/무비_클릭시_예고편.png": "/static/media/무비_클릭시_예고편.868f239a8e4d963c5042.png",
     "static/media/sns_게시물작성.gif": "/static/media/sns_게시물작성.d0c59a13e7332c2536e7.gif",
+    "static/media/marvel3.png": "/static/media/marvel3.d92711b51b3901699971.png",
     "static/media/Mall3.png": "/static/media/Mall3.15c68654e9ebd0d45fae.png",
+    "static/media/marvel.png": "/static/media/marvel.95230191d5878d363ed7.png",
     "static/media/sns_page이동.gif": "/static/media/sns_page이동.c06d6a4735e53a2fb41a.gif",
     "static/media/photo_section2.png": "/static/media/photo_section2.b4eac9c25f48d258eeed.png",
     "static/media/photo_home.png": "/static/media/photo_home.488984f212aaa17f5f4a.png",
@@ -27,11 +31,11 @@
     "static/media/Mall5.png": "/static/media/Mall5.6d4f55d87f55305f1d73.png",
     "static/media/Mall1.png": "/static/media/Mall1.5a6a226e1fdfc4deef2f.png",
     "index.html": "/index.html",
-    "main.da3adca8.css.map": "/static/css/main.da3adca8.css.map",
-    "main.d0bf2d3b.js.map": "/static/js/main.d0bf2d3b.js.map"
+    "main.33a3c2d5.css.map": "/static/css/main.33a3c2d5.css.map",
+    "main.b2f98384.js.map": "/static/js/main.b2f98384.js.map"
   },
   "entrypoints": [
-    "static/css/main.da3adca8.css",
-    "static/js/main.d0bf2d3b.js"
+    "static/css/main.33a3c2d5.css",
+    "static/js/main.b2f98384.js"
   ]
 }
